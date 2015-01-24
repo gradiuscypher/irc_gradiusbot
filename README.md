@@ -1,2 +1,2 @@
 # irc_gradiusbot
-This is an IRC bot. It does IRC bot things.
+IRC Bot. Pretty standard. Does things.
